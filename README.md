@@ -1,5 +1,5 @@
 # DeepEBV
-DeepEBV was designed for detection of EBV virus in DNA integration by deep learning.
+DeepEBV was designed for detection of EBV virus in DNA integration by deep learning. The data provided here is for the model of DeepEBV with EBV integration sequences + TCGA Pan Cancer.
 
 Run ‘Data_Process.py’ to get one-hot encoding test data and labels.
 Run ‘DeepEBV_Test.py’ to detect DNA sequence of EBV virus.
