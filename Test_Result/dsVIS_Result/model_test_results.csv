@@ -1,0 +1,2 @@
+dsVIS_Test_pos_Quantity,dsVIS_Test_neg_Quantity,Test_acc,Test_loss,rocauc_score,AveragePrecision_score
+2663,26630,0.8979619705037707,0.3622930095709185,0.839263772234325,0.6595161477339417
